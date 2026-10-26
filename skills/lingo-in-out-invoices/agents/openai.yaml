@@ -1,0 +1,4 @@
+interface:
+  display_name: "LINGO IN–OUT"
+  short_description: "Cập nhật sổ hóa đơn IN–OUT, giữ nguyên định dạng"
+  default_prompt: "Dùng $lingo-in-out-invoices để kiểm tra chứng từ mới trong IN và cập nhật Excel trong OUT, giữ nguyên nguồn và định dạng."
